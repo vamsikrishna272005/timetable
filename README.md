@@ -109,5 +109,5 @@ Execute the program
 ```
 # OUTPUT
 
-![timetable output](./timetableoutput.png)
+![timetable output](./ttoutput.png)
 
