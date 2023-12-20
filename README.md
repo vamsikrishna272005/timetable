@@ -109,5 +109,6 @@ Execute the program
 ```
 # OUTPUT
 
-![timetable output](./ttoutput.png)
+![ttoutput](https://github.com/vamsikrishna272005/timetable/assets/147477015/018e7005-4ae0-46f3-823d-99c6307f4e31)
+
 
